@@ -1,4 +1,8 @@
 _repo: Kuolleista-herannyt-Seikkailukertomus-eli-etsijan-tarina_48979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassila, Maiju
@@ -16,6 +20,8 @@ creator:
     - http://www.kirjasto.sci.fi/lassila.htm
     - http://fi.wikipedia.org/wiki/Algot_Untola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48979#Kuolleista-herannyt-Seikkailukertomus-eli-etsijan-tarina
 gutenberg_issued: '2015-05-17'
 gutenberg_type: Text
 identifiers:
